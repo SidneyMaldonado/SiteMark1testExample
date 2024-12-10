@@ -1,0 +1,6 @@
+@SiteMark1_HostAddress = http://localhost:5018
+
+GET {{SiteMark1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
